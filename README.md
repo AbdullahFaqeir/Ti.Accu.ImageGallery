@@ -1,3 +1,5 @@
+[![gitTio](http://gitt.io/badge.svg)](http://gitt.io/component/ti.accu.imagegallery)
+
 # Ti.Accu.ImageGallery
 
 A simple yet effective widget to display an image gallery with, next, previouse and zoom which supports loading images in url, path and base64 string.
