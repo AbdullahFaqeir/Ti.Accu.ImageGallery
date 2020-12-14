@@ -1,0 +1,54 @@
+'#AccuImageSlider' : {
+  width          : Ti.UI.FILL,
+  height         : Ti.UI.FILL,
+  navBarHidden   : true,
+  backgroundColor: 'black'
+}
+'#AccuImageSliderHolder' : {
+  width          : Ti.UI.FILL,
+  height         : Ti.UI.FILL,
+  backgroundColor: 'transparent'
+}
+'#CloseBtn' : {
+  width          : 40,
+  height         : 40,
+  backgroundColor: 'white',
+  borderRadius   : 20,
+  right          : 15,
+  top            : 15
+}
+'#PrevBtn' : {
+  width          : 50,
+  height         : 50,
+  backgroundColor: 'transparent',
+  borderRadius   : 25,
+  left           : 20
+}
+'#NextBtn' : {
+  width          : 50,
+  height         : 50,
+  backgroundColor: 'transparent',
+  borderRadius   : 25,
+  right          : 20
+}
+'#AccuImageSliderView' : {
+  width : Ti.UI.FILL,
+  height: Ti.UI.SIZE,
+  layout: 'horizontal'
+}
+'.ImgBtn' : {
+  width  : '75%',
+  height : '75%',
+  opacity: 1
+}
+'#CloseBtnImg' : {
+  image: WPATH('close.png')
+}
+'#NextBtnImg' : {
+  image    : WPATH('chevron_right.png'),
+  tintColor: 'white'
+}
+'#PrevBtnImg' : {
+  image    : WPATH('chevron_left.png'),
+  tintColor: 'white'
+}

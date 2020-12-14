@@ -1,0 +1,16 @@
+<Alloy>
+  <Window id="AccuImageSlider">
+    <View id="AccuImageSliderHolder">
+      <ScrollableView id="AccuImageSliderView"></ScrollableView>
+      <View id="CloseBtn">
+        <ImageView id="CloseBtnImg" class="ImgBtn"/>
+      </View>
+      <View id="PrevBtn">
+        <ImageView id="PrevBtnImg" class="ImgBtn"/>
+      </View>
+      <View id="NextBtn">
+        <ImageView id="NextBtnImg" class="ImgBtn"/>
+      </View>
+    </View>
+  </Window>
+</Alloy>

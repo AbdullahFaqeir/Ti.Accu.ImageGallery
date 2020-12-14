@@ -1,0 +1,13 @@
+{
+  "id": "ti.accu.imagegallery",
+  "name": "Ti.Accu.ImageGallery",
+  "description": "Alloy+Titanium widget for image gallery.",
+  "author": "Abdullah Al-Faqeir",
+  "version": "1.0.0",
+  "copyright": "Copyright (c) AccuSolutions LLC 2020",
+  "license": "Apache License, Version 2.0",
+  "min-alloy-version": "1.0",
+  "min-titanium-version": "3.0",
+  "tags": "image gallery, image slider, gallert",
+  "platforms": "ios,android"
+}
