@@ -26,7 +26,7 @@ function init() {
     if (image.type === 'base64') {
       imageView.image = Ti.Utils.base64decode(image.image);
     } else if (image.type === 'image') {
-      imageView.src = image.image;
+      imageView.image = image.image;
     } else {
       throw new Error('Invalid image type ' + image.type + '.');
     }
